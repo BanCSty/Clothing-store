@@ -1,0 +1,13 @@
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\bin\Debug\netcoreapp3.1\ClothingShop.exe
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\bin\Debug\netcoreapp3.1\ClothingShop.deps.json
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\bin\Debug\netcoreapp3.1\ClothingShop.runtimeconfig.json
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\bin\Debug\netcoreapp3.1\ClothingShop.runtimeconfig.dev.json
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\bin\Debug\netcoreapp3.1\ClothingShop.dll
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\bin\Debug\netcoreapp3.1\ClothingShop.pdb
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\obj\Debug\netcoreapp3.1\ClothingShop.csprojAssemblyReference.cache
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\obj\Debug\netcoreapp3.1\ClothingShop.AssemblyInfoInputs.cache
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\obj\Debug\netcoreapp3.1\ClothingShop.AssemblyInfo.cs
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\obj\Debug\netcoreapp3.1\ClothingShop.csproj.CoreCompileInputs.cache
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\obj\Debug\netcoreapp3.1\ClothingShop.dll
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\obj\Debug\netcoreapp3.1\ClothingShop.pdb
+C:\Users\oksim\source\repos\ClothingShop\ClothingShop\obj\Debug\netcoreapp3.1\ClothingShop.genruntimeconfig.cache
